@@ -1,15 +1,12 @@
 
 // Project Prolog
-// Name: Jaxon Downing
-// CS3250 Section 001
-// Project: Word Search
-// Date: 03/26/2022 3:53:00 PM
 // Purpose: Write a program that takes an input
 // text file from the command line and finds if
 // the words are in the puzzle.
 // The input file for the program will have the
 // letters in the word search grid, followed by a blank
 // line and then words to find in the puzzle.
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
