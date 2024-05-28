@@ -1,5 +1,4 @@
 # Word-Search
-Word Search class assignment
 
 The program takes a commandline argument <textFile.txt>.
 
